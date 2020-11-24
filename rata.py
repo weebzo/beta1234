@@ -20,18 +20,7 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDos Attack")
 print
-print "
- ██▀███   ▄▄▄     ▄▄▄█████▓ ▄▄▄      
-▓██ ▒ ██▒▒████▄   ▓  ██▒ ▓▒▒████▄    
-▓██ ░▄█ ▒▒██  ▀█▄ ▒ ▓██░ ▒░▒██  ▀█▄  
-▒██▀▀█▄  ░██▄▄▄▄██░ ▓██▓ ░ ░██▄▄▄▄██ 
-░██▓ ▒██▒ ▓█   ▓██▒ ▒██▒ ░  ▓█   ▓██▒
-░ ▒▓ ░▒▓░ ▒▒   ▓▒█░ ▒ ░░    ▒▒   ▓▒█░
-  ░▒ ░ ▒░  ▒   ▒▒ ░   ░      ▒   ▒▒ ░
-  ░░   ░   ░   ▒    ░        ░   ▒   
-   ░           ░  ░              ░  ░
-                                     
-"
+print "This a beta so dont send attackz to anyone"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
